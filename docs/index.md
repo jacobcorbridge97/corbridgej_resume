@@ -2,8 +2,8 @@
 layout: resume
 title: Jacob Corbridge's Resume
 ---
-# Jacob Corbridge
-Data Science Major
+# Jacob Corbridges
+Data Science Major ...
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
