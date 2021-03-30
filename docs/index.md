@@ -1,9 +1,9 @@
 ---
-layout: resume
+layout: cv
 title: Jacob Corbridge's Resume
 ---
-# Jacob Corbridges
-Data Science Major ...
+# Jacob Corbridge
+Data Science Major
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -32,7 +32,7 @@ __Stotz Equipment__, Casa Grande, AZ
 
 ### Data Science Consulting Team
 
-`April 2027 - June 2027`
+`Januray 2021 - April 2021`
 __Westmark Credit Union__, Consultant
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
@@ -41,7 +41,7 @@ __Westmark Credit Union__, Consultant
 
 ## Service and Work History
 
-`2025-2027`
+`2018`
 __Economics Tutor Tutor__, BYU-I
 
 
