@@ -6,8 +6,8 @@ title: Jacob Corbridge's Resume
 Data Science Major
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="jacobcorbridge97@gmail.com">jacobcorbridge97@gmail.com</a>
+| <a href="https://www.linkedin.com/in/jacobcorbridge/">Linkedin</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
